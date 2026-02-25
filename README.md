@@ -1,16 +1,76 @@
-## Hi there 👋
+# 👋 Hi, I'm Ismayil Aghayev
 
-<!--
-**ismayilagha/ismayilagha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏆 GenAI Scholarship Winner  
+🤖 AI Automation & Applied AI Engineer in Progress  
+🚀 Building Intelligent Agents & Automation Systems  
+📍 Azerbaijan  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I am a selected participant of the **GenAI Scholarship Program**, focused on building real-world AI-powered automation systems.
+
+Currently training under an intensive AI curriculum where I design:
+
+- AI Automation Agents
+- LLM-powered workflows
+- API-integrated intelligent systems
+- Scalable automation pipelines
+
+My goal is to engineer practical AI solutions that create measurable impact.
+
+---
+
+## 🚀 What I'm Building
+
+- 🤖 Multi-step AI Agents  
+- 🔗 API-connected automation systems  
+- 🧠 LLM-based reasoning workflows  
+- ⚙️ Process automation tools  
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Core
+- Python
+- Git & GitHub
+- Linux
+- REST APIs
+- Markdown
+
+### 🤖 AI & Automation
+- Large Language Models (LLMs)
+- OpenAI API
+- Prompt Engineering
+- AI Agents
+- Workflow Orchestration
+
+---
+
+## 📈 Current Focus
+
+Deepening expertise in:
+
+- AI Agent Architecture
+- Automation System Design
+- Tool Integration
+- Real-world AI deployment
+
+---
+
+## 📊 GitHub Stats
+
+![Ismayil's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismayilagha&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: (add your link)
+- Email: (add your email)
+
+---
+
+> ⚡ Building intelligent systems. Learning fast. Executing consistently.
