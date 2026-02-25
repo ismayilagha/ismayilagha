@@ -62,14 +62,14 @@ Deepening expertise in:
 
 ## 📊 GitHub Stats
 
-![Ismayil's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismayilagha&show_icons=true&theme=radical)
+![Ismayil's GitHub stats]((https://github.com/ismayilagha))
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: (add your link)
-- Email: (add your email)
+- LinkedIn: (https://www.linkedin.com/in/ismayil-aghayev/)
+- Email: (ismayil.agha@gmail.com)
 
 ---
 
