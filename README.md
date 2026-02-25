@@ -62,7 +62,7 @@ Deepening expertise in:
 
 ## 📊 GitHub Stats
 
-! [Ismayil's GitHub stats]((https://github.com/ismayilagha))
+![Ismayil's GitHub stats]((https://github.com/ismayilagha))
 
 ---
 
